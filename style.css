@@ -1,0 +1,33 @@
+nav{
+    border: 20px solid black;
+    color: white;
+    background-color: black;
+    justify-content: space-around;
+    display: flex;
+
+    
+
+    
+    
+
+}
+.bar{
+    text-decoration: none;
+    color: white;
+   
+    
+    
+   
+    
+    
+}
+#b{
+    margin-left: 500px;
+    position: relative;
+    width: 100px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    
+
+}
